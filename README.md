@@ -19,9 +19,9 @@ Claude Code plugin marketplace for VSCXML state machine tools.
 
 | Command | Description |
 |---------|-------------|
-| `/vscxml-design` | Create and visualize state machines from descriptions |
-| `/vscxml-simulate` | Test with event injection, tracing, live highlights |
-| `/vscxml-generate` | Generate code for 7 targets |
-| `/vscxml-trace` | Record, compare, and replay execution traces |
+| `/vscxml:design` | Create and visualize state machines from descriptions |
+| `/vscxml:simulate` | Test with event injection, tracing, live highlights |
+| `/vscxml:generate` | Generate code for 7 targets |
+| `/vscxml:trace` | Record, compare, and replay execution traces |
 
 Plus 50 MCP tools for fine-grained control. See [vscxml.com](https://vscxml.com) for details.
