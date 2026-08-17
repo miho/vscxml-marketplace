@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "vscxml-marketplace",
-  "description": "VSCXML state machine tools for Claude Code",
+  "description": "VSCXML state machine tools for Claude Code, ChatGPT, and Codex",
   "owner": {
     "name": "Michael Hoffer",
     "email": "info@michaelhoffer.de"
@@ -9,7 +9,7 @@
   "plugins": [
     {
       "name": "vscxml",
-      "description": "Professional W3C SCXML state machine editor, simulator, and code generator — design, simulate, test, and generate native code for 7 targets",
+      "description": "Professional W3C SCXML state machine editor, simulator, and code generator — design, simulate, test, and generate native code for 9 targets",
       "category": "development",
       "source": {
         "source": "url",

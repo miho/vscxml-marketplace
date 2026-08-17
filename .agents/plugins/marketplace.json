@@ -1,0 +1,41 @@
+{
+  "name": "vscxml-marketplace",
+  "interface": {
+    "displayName": "VSCXML"
+  },
+  "plugins": [
+    {
+      "name": "vscxml",
+      "version": "0.4.0",
+      "description": "Professional W3C SCXML state machine editor, simulator, and code generator — design, simulate, test, and generate native code.",
+      "author": {
+        "name": "Michael Hoffer",
+        "url": "https://github.com/miho"
+      },
+      "homepage": "https://vscxml.com",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/miho/vscxml-plugin.git",
+        "ref": "0.4.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools",
+      "interface": {
+        "displayName": "VSCXML",
+        "shortDescription": "Build and test executable state machines",
+        "longDescription": "Connect ChatGPT desktop and Codex to the installed VSCXML Generator, Simulator, and Editor for end-to-end W3C SCXML workflows.",
+        "developerName": "VSCXML",
+        "category": "Developer Tools",
+        "capabilities": [
+          "Interactive",
+          "Write"
+        ],
+        "websiteURL": "https://vscxml.com",
+        "brandColor": "#2563EB"
+      }
+    }
+  ]
+}
